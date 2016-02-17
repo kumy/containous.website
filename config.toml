@@ -1,0 +1,12 @@
+baseurl = "https:/containo.us/"
+languageCode = "en-us"
+title = "Containous"
+
+[params]
+  # description = "Container delivery company"
+  author = "Emile Vauge"
+  github = "emilevauge"
+  twitter = "emilevauge"
+  logo = "/containous.logo.png"
+  mainIcon = "/containous.logo.tiny.png"
+  cover = "/cover.jpg"
