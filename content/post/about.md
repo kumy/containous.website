@@ -7,4 +7,4 @@ class="post first"
 
 +++
 
-Founded in 2016 by [Emile Vauge](https://github.com/EmileVauge), Containous creates open-source infrastructure softwares for the modern datacenter.
+Founded in 2016 by [Emile Vauge](https://github.com/EmileVauge), Containous creates open-source infrastructure software for the modern datacenter.
